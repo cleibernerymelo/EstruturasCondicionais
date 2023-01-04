@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E07_SomarDoisNumerosDiferen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E06_InscreverFormandoEmCursos", "E06_InscreverFormandoEmCursos\E06_InscreverFormandoEmCursos.csproj", "{D620E1BB-F032-4CE6-AFA4-3B39888C6E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E07.1_VerificarNumerosParesESomar", "E07.1_VerificarNumerosParesESomar\E07.1_VerificarNumerosParesESomar.csproj", "{CEF902EE-56FA-4B44-BA18-39280CD76A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D620E1BB-F032-4CE6-AFA4-3B39888C6E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D620E1BB-F032-4CE6-AFA4-3B39888C6E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D620E1BB-F032-4CE6-AFA4-3B39888C6E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF902EE-56FA-4B44-BA18-39280CD76A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF902EE-56FA-4B44-BA18-39280CD76A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF902EE-56FA-4B44-BA18-39280CD76A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF902EE-56FA-4B44-BA18-39280CD76A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

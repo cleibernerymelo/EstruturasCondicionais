@@ -10,6 +10,7 @@ namespace E06_InscreverFormandoEmCursos
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }
