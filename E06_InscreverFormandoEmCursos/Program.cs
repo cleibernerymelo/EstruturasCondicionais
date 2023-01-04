@@ -10,7 +10,10 @@ namespace E06_InscreverFormandoEmCursos
     {
         static void Main(string[] args)
         {
-           
+           Console.WriteLine("qual o seu nome? ");
+           string myName = Console.ReadLine();
+           Console.WriteLine("meu nome é ", myName);
+           Console.ReadKey();
         }
     }
 }
