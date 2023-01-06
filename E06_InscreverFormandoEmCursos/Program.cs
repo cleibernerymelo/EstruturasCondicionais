@@ -14,6 +14,12 @@ namespace E06_InscreverFormandoEmCursos
            string myName = Console.ReadLine();
            Console.WriteLine("meu nome é ", myName);
            Console.ReadKey();
+
+            Array tabuaad[10]
+            for (int i = 0; i < length; i++)
+            {
+
+            }
         }
     }
 }
