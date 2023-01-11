@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{6E8EF97E-D6C4-46E8-B7AE-4031C52D93E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomarDoisNumerosSeAbosForemDiferentesDeZero", "SomarDoisNumerosSeAbosForemDiferentesDeZero\SomarDoisNumerosSeAbosForemDiferentesDeZero.csproj", "{ABF78573-C877-4550-A502-B0F025A538D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subrotinas", "Subrotinas\Subrotinas.csproj", "{7B302EF7-0AEA-487C-BFF4-08A2F443EF69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6E8EF97E-D6C4-46E8-B7AE-4031C52D93E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8EF97E-D6C4-46E8-B7AE-4031C52D93E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8EF97E-D6C4-46E8-B7AE-4031C52D93E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF78573-C877-4550-A502-B0F025A538D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF78573-C877-4550-A502-B0F025A538D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF78573-C877-4550-A502-B0F025A538D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF78573-C877-4550-A502-B0F025A538D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B302EF7-0AEA-487C-BFF4-08A2F443EF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B302EF7-0AEA-487C-BFF4-08A2F443EF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B302EF7-0AEA-487C-BFF4-08A2F443EF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B302EF7-0AEA-487C-BFF4-08A2F443EF69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
